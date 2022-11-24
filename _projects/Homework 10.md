@@ -63,10 +63,10 @@ By applying same filters, the figure 3 showing relationships between 'country', 
 ### Additional informations, click the buttons bellow to see the dataset and my code. Thanks for reading.
 
 <div class="left">
-{% include elements/button.html link="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/licenses_fall2022.csv" text="The Data" %}
+{% include elements/button.html link="https://raw.githubusercontent.com/cnguyen14/cnguyen14.github.io/main/python_notebooks/dataset/netflix_titles.csv" text="The Data" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/cnguyen1411/cnguyen1411.github.io/blob/main/python_notebooks/HW10-Altair-Analysis.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/cnguyen14/cnguyen14.github.io/blob/main/python_notebooks/FinalProject-Part2.ipynb" text="The Analysis" %}
 </div>
 
